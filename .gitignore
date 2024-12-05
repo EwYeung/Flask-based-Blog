@@ -1,0 +1,8 @@
+*.pyc
+
+__pycache__/
+
+todo.md
+dbinit.py
+runtimeTest.py
+
